@@ -2,6 +2,7 @@
 
 ## Project Overview
 This project aims to analyze road accidents based on factors like road type, road surfaces, location, vehicle type, and casualties. I extracted, cleaned, analyzed the data, and built an interactive dashboard for easy visualization. The insights gained will aid in accident prevention and improving road safety.
+
 ![Roaddashboard](https://github.com/Sushma1134/Road_Accident_Analysis_Dashboard/assets/153356425/c0a92647-9eb8-45f3-bca4-565ef47c586f)
 
 ## Data Sources
