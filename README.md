@@ -34,12 +34,12 @@ EDA is involved in exploring the Road Accident data to answer key questions, suc
  
  Data Analysis is done in the same Excel workbook "Road Accident Data.xlsx" in different worksheets and formed a dashboard report in the same Excel workbook under the name of Dashboard.
 
- ### Results 
+### Results 
 As per the results,
 - Total Casualties are 417883.
 - Slight severity has the highest casualties compared to fatal and serious severity.
 - Maximum casualties based on vehicle type are done by cars with 333485 accidents which are around 79%
 - Most number casualties happened by Single carriageway Road type.
 - Most number casualties happened on Dry surfaces compared to Wet and Ice/Snow surfaces.
-- Highest number of casualties happened in urban areas compared to Rural Areas.
-- Highest number of casualties happened in Dark(Night) time only.
+- The highest number of casualties happened in urban areas compared to Rural Areas.
+- The highest number of casualties happened in Dark(Night) time only.
